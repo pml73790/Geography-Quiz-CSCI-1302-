@@ -1,0 +1,46 @@
+project5:
+total 8
+-rw-r--r--. 1 myid 1610 Jul 23 20:22 pom.xml
+-rw-r--r--. 1 myid  744 Jul 30 16:21 README.txt
+-rw-r--r--. 1 myid    0 Jul 30 16:27 rec23425
+drwxr-xr-x. 3 myid   26 Jul 22 19:28 src
+
+project5/src:
+total 0
+drwxr-xr-x. 4 myid 47 Jul 22 20:23 main
+
+project5/src/main:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 22 19:45 java
+drwxr-xr-x. 2 myid  6 Jul 22 20:19 resources
+
+project5/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 22 19:28 edu
+
+project5/src/main/java/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 22 19:28 uga
+
+project5/src/main/java/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 22 19:28 cs1302
+
+project5/src/main/java/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 231 Jul 30 15:47 quiz
+
+project5/src/main/java/edu/uga/cs1302/quiz:
+total 40
+-rw-r--r--. 1 myid  493 Jul 22 21:19 Country.java
+-rw-r--r--. 1 myid 6686 Jul 30 15:47 GeographyQuiz.java
+-rw-r--r--. 1 myid 6696 Jul 30 15:32 GeographyQuiz.java~
+-rw-r--r--. 1 myid 1053 Jul 23 18:19 QuestionCollection.java
+-rw-r--r--. 1 myid  620 Jul 22 21:23 Question.java
+-rw-r--r--. 1 myid 2576 Jul 23 18:38 Quiz.java
+-rw-r--r--. 1 myid  664 Jul 23 20:26 QuizResult.java
+-rw-r--r--. 1 myid  687 Jul 23 18:46 QuizResult.java~
+
+project5/src/main/resources:
+total 0
+/home/myid/pml73790/cs1302/project5:/home/myid/csci-1302a
